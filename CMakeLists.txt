@@ -28,3 +28,4 @@ endfunction(gcj_add)
 
 gcj_add(round_2017_qualification_a)
 gcj_add(round_2017_qualification_b)
+gcj_add(round_2017_qualification_c)
